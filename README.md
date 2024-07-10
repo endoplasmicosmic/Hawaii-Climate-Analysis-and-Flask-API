@@ -23,7 +23,7 @@ The precipitation analysis involves:
 - Retrieving the last 12 months of precipitation data.
 - Plotting the results.
 
-![Precipitation Analysis](SurfsUp/graph_visuals/precipitation_analysis.png)
+![Precipitation Analysis](/SurfsUp/graph_visuals/precipitation_analysis.png)
 
 #### Station Analysis
 
@@ -33,7 +33,7 @@ The station analysis involves:
 - Finding the minimum, maximum, and average temperatures for the most active station.
 - Plotting a histogram of the last 12 months of temperature observation data.
 
-![Temperature Observation Histogram](SurfsUp/graph_visuals/temperature_observation_histogram.png)
+![Temperature Observation Histogram](/SurfsUp/graph_visuals/temperature_observation_histogram.png)
 
 ## Flask API
 
