@@ -1,4 +1,4 @@
-# Hawaii Climate Analysis and Flask API
+# Hawaii Climate Analysis and Flask API - SQLalchemy
 
 ## Background
 
